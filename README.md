@@ -1,1 +1,1 @@
-# Fake-News-Detector
+# Phoney_detector
